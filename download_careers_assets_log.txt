@@ -1,0 +1,73 @@
+Extracting asset URLs from careers HTML...
+Found 75 unique asset URLs
+[11/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[12/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[13/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[14/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[15/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[16/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[17/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[18/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[19/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[20/79] FAIL 400 https://recruitcrm.io/_next/image?url=https%3A%2F%2Fproduction-recruitcrm-virgin
+[21/79] OK https://recruitcrm.io/_next/static/chunks/1309-77994fabe5807b3d.js
+[22/79] OK https://recruitcrm.io/_next/static/chunks/1330-aa79d690fb0b9db9.js
+[23/79] OK https://recruitcrm.io/_next/static/chunks/1455-f4ac65b59e3a262b.js
+[24/79] OK https://recruitcrm.io/_next/static/chunks/1915-48892966b5751602.js
+[25/79] OK https://recruitcrm.io/_next/static/chunks/2117-f99bcdef1d318134.js
+[26/79] OK https://recruitcrm.io/_next/static/chunks/2972-cf828072ec772a0b.js
+[27/79] OK https://recruitcrm.io/_next/static/chunks/5186-2677f83a40a4cd00.js
+[28/79] OK https://recruitcrm.io/_next/static/chunks/5482-3329c2d68a8020d7.js
+[29/79] OK https://recruitcrm.io/_next/static/chunks/5878-53eec11ca7dbdbd5.js
+[30/79] OK https://recruitcrm.io/_next/static/chunks/6808-17150e8b61d0d4be.js
+[31/79] OK https://recruitcrm.io/_next/static/chunks/7513-1528e3c7a1f40f21.js
+[32/79] OK https://recruitcrm.io/_next/static/chunks/app/apply/%5Bjob_slug%5D/error-53c6eb1
+[33/79] OK https://recruitcrm.io/_next/static/chunks/app/apply/%5Bjob_slug%5D/layout-1757a7
+[34/79] OK https://recruitcrm.io/_next/static/chunks/app/apply/%5Bjob_slug%5D/page-ab395a1a
+[35/79] OK https://recruitcrm.io/_next/static/chunks/app/layout-ebe34223c1b10557.js
+[36/79] OK https://recruitcrm.io/_next/static/chunks/app/not-found-3ed2e17c4b936dc2.js
+[37/79] OK https://recruitcrm.io/_next/static/chunks/fd9d1056-f56f83c3bedbde16.js
+[38/79] OK https://recruitcrm.io/_next/static/chunks/main-app-cad3aa252788dd79.js
+[39/79] OK https://recruitcrm.io/_next/static/chunks/polyfills-42372ed130431b0a.js
+[40/79] OK https://recruitcrm.io/_next/static/chunks/webpack-568c270586e4d5b9.js
+[41/79] OK https://recruitcrm.io/_next/static/css/63c45352ad9c2382.css
+[42/79] OK https://recruitcrm.io/_next/static/css/63c45352ad9c2382.css\
+[43/79] OK https://recruitcrm.io/_next/static/media/3a9fd9773111cd4d-s.p.woff2
+[44/79] OK https://recruitcrm.io/_next/static/media/3a9fd9773111cd4d-s.p.woff2\
+[63/79] OK https://recruitcrm.io/externalpages_v2/favicons/favicon.ico
+[64/79] OK https://recruitcrm.io/externalpages_v2/favicons/favicon.ico\
+[65/79] OK https://recruitcrm.io/externalpages_v2/icons/arrow-right.svg
+[66/79] OK https://recruitcrm.io/externalpages_v2/icons/file-presentation-box.svg
+[67/79] OK https://recruitcrm.io/externalpages_v2/icons/magnify.svg
+[68/79] OK https://recruitcrm.io/externalpages_v2/landing.svg
+[71/79] OK https://recruitcrm.io/static-assets/_next/static/css/46d447d8895e09a1.css
+[72/79] OK https://recruitcrm.io/static-assets/_next/static/css/699608b5627cf431.css
+[73/79] OK https://recruitcrm.io/static-assets/_next/static/css/8a3ab71d74223d6e.css
+[74/79] OK https://recruitcrm.io/static-assets/_next/static/media/1e41be92c43b3255-s.p.woff
+[75/79] OK https://recruitcrm.io/static-assets/_next/static/media/44ca41e4fd5cc616-s.p.woff
+[76/79] OK https://recruitcrm.io/static-assets/_next/static/media/904be59b21bd51cb-s.p.woff
+[78/79] FAIL 403 https://websiteassetsimage.s3.ap-southeast-1.amazonaws.com/images/
+[79/79] OK https://websiteassetsimage.s3.ap-southeast-1.amazonaws.com/images/file-loader.gi
+
+Downloaded 46 assets, 11 failed
+Rewriting HTML files...
+Rewrote careers/index.html
+Rewrote careers/jobs/software-engineer-azure-databricks-agentic-ai-64296OfJ/index.html
+Rewrote careers/jobs/job-de-prueba---caro-67743aMF/index.html
+Rewrote careers/jobs/sr-python-backend-engineer-saas-64296WOT/index.html
+Rewrote careers/jobs/senior-fullstack-developer-legacy-modernization-65075zeN/index.html
+Rewrote careers/jobs/principal-software-engineer-64296kWY/index.html
+Rewrote careers/jobs/sr-software-engineer-64296Bes/index.html
+Rewrote careers/jobs/senior-progress-openedge-developer-abl-4gl-64296kDl/index.html
+Rewrote careers/jobs/founding-solutions-engineer-presales-engineer-64296fQF/index.html
+Rewrote careers/jobs/senior-data-engineer-64296OJC/index.html
+Rewrote careers/jobs/ensitech-jobscareers-64296HFd/index.html
+Rewrote careers/jobs/sr-software-engineer-elixir-ruby-react-64296HrG/index.html
+Rewrote careers/jobs/technical-business-analyst-64296sbk/index.html
+Rewrote careers/jobs/sr-react-engineer-64296BlO/index.html
+Rewrote careers/jobs/power-bi-developer-mid-level-65075IUA/index.html
+Rewrote careers/jobs/google-cloud-consultant-69865CoQ/index.html
+Rewrote careers/jobs/arquitecto-de-diagnóstico-técnico-65205tHa/index.html
+Rewrote careers/jobs/pmo-coordinator-65075aMV/index.html
+Added search filter script to careers/index.html
+Done!

@@ -1,0 +1,469 @@
+Extracting asset URLs from HTML files...
+Found 332 asset URLs to download
+Downloading assets...
+[1/332] OK https://ensitech.com/wp-content/cache/min/1/static/js/widget.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/static/js/widget.js
+[2/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/principal.js?ver=1780601285 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/principal.js
+[3/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js
+[4/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js
+[5/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index.js
+[6/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=1780601285 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs.js
+[7/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=1780601285 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js
+[8/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/handl-utm-grabber-3.0.55_activated/js/handl-utm-grabber.js?ver=1780601285 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/handl-utm-grabber-3.0.55_activated/js/handl-utm-grabber.js
+[9/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/handl-utm-grabber-3.0.55_activated/js/js.cookie.js?ver=1780601285 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/handl-utm-grabber-3.0.55_activated/js/js.cookie.js
+[10/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/mailjet-for-wordpress/src/widgetformbuilder/js/front-widget.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/mailjet-for-wordpress/src/widgetformbuilder/js/front-widget.js
+[11/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/wp-contact-form-7-spam-blocker/frontend/js/spam-protect-for-contact-form7.js?ver=1780601285 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/wp-contact-form-7-spam-blocker/frontend/js/spam-protect-for-contact-form7.js
+[12/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/wp-statistics/assets/js/tracker.js
+[13/332] OK https://ensitech.com/wp-content/cache/min/1/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1780601286 -> assets/ensitech.com/wp-content/cache/min/1/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js
+[14/332] OK https://ensitech.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.11.1 -> assets/ensitech.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js
+[15/332] OK https://ensitech.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.11.1 -> assets/ensitech.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js
+[16/332] OK https://ensitech.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.11.1 -> assets/ensitech.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js
+[17/332] OK https://ensitech.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1 -> assets/ensitech.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js
+[18/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3 -> assets/ensitech.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+[19/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3 -> assets/ensitech.com/wp-content/plugins/elementor/assets/js/frontend.min.js
+[20/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3 -> assets/ensitech.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+[21/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.25.0 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
+[22/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.25.0 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg
+[23/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.25.0 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
+[24/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.25.0 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+[25/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.25.0 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
+[26/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+[28/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+[29/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+[30/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+[31/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+[32/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+[34/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+[35/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+[36/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+[37/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+[38/332] OK https://ensitech.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 -> assets/ensitech.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+[39/332] OK https://ensitech.com/wp-content/plugins/instagram-feed/img/placeholder.png -> assets/ensitech.com/wp-content/plugins/instagram-feed/img/placeholder.png
+[40/332] OK https://ensitech.com/wp-content/plugins/instagram-feed/img/sbi-sprite.png -> assets/ensitech.com/wp-content/plugins/instagram-feed/img/sbi-sprite.png
+[41/332] OK https://ensitech.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.9.1 -> assets/ensitech.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js
+[42/332] OK https://ensitech.com/wp-content/plugins/interactive-geo-maps/assets/public/map-service/app.min.js?ver=1.5.11 -> assets/ensitech.com/wp-content/plugins/interactive-geo-maps/assets/public/map-service/app.min.js
+[43/332] OK https://ensitech.com/wp-content/plugins/master-slider/public/assets/css/common/grab.cur -> assets/ensitech.com/wp-content/plugins/master-slider/public/assets/css/common/grab.cur
+[44/332] OK https://ensitech.com/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur -> assets/ensitech.com/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur
+[45/332] OK https://ensitech.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=4.10.14 -> assets/ensitech.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js
+[46/332] OK https://ensitech.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-dis-conditions.min.js?ver=4.10.14 -> assets/ensitech.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-dis-conditions.min.js
+[47/332] OK https://ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=84052299 -> assets/ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js
+[48/332] OK https://ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=84052299 -> assets/ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js
+[49/332] OK https://ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=84052299 -> assets/ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js
+[50/332] OK https://ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=84052299 -> assets/ensitech.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js
+[51/332] OK https://ensitech.com/wp-content/plugins/wp-rocket/assets/img/youtube.png -> assets/ensitech.com/wp-content/plugins/wp-rocket/assets/img/youtube.png
+[52/332] OK https://ensitech.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js -> assets/ensitech.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+[53/332] OK https://ensitech.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js -> assets/ensitech.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+[54/332] OK https://ensitech.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 -> assets/ensitech.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js
+[55/332] OK https://ensitech.com/wp-content/uploads/2023/03/01-JavaScript-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/01-JavaScript-150x150.png
+[56/332] OK https://ensitech.com/wp-content/uploads/2023/03/01-microsoft.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/01-microsoft.jpg
+[57/332] OK https://ensitech.com/wp-content/uploads/2023/03/02-C_Sharp-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/02-C_Sharp-150x150.png
+[58/332] OK https://ensitech.com/wp-content/uploads/2023/03/02-lessen.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/02-lessen.jpg
+[59/332] OK https://ensitech.com/wp-content/uploads/2023/03/03-NodeJS-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/03-NodeJS-150x150.png
+[60/332] OK https://ensitech.com/wp-content/uploads/2023/03/03-redstage.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/03-redstage.jpg
+[61/332] OK https://ensitech.com/wp-content/uploads/2023/03/04-Angular-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/04-Angular-150x150.png
+[62/332] OK https://ensitech.com/wp-content/uploads/2023/03/04-godaddy.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/04-godaddy.jpg
+[63/332] OK https://ensitech.com/wp-content/uploads/2023/03/05-ReactJS-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/05-ReactJS-150x150.png
+[64/332] OK https://ensitech.com/wp-content/uploads/2023/03/05-logitix.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/05-logitix.jpg
+[65/332] OK https://ensitech.com/wp-content/uploads/2023/03/06-JAVA-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/06-JAVA-150x150.png
+[66/332] OK https://ensitech.com/wp-content/uploads/2023/03/07-Python-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/07-Python-150x150.png
+[67/332] OK https://ensitech.com/wp-content/uploads/2023/03/08-PHP-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/08-PHP-150x150.png
+[68/332] OK https://ensitech.com/wp-content/uploads/2023/03/09-AJAX-150x150.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/09-AJAX-150x150.jpg
+[69/332] OK https://ensitech.com/wp-content/uploads/2023/03/1-Accelerate-time-to-market.png -> assets/ensitech.com/wp-content/uploads/2023/03/1-Accelerate-time-to-market.png
+[70/332] OK https://ensitech.com/wp-content/uploads/2023/03/1-Share-your-talent-specs-150x150.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/1-Share-your-talent-specs-150x150.jpg
+[71/332] OK https://ensitech.com/wp-content/uploads/2023/03/10-Android-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/10-Android-150x150.png
+[72/332] OK https://ensitech.com/wp-content/uploads/2023/03/11-AWS-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/11-AWS-150x150.png
+[73/332] OK https://ensitech.com/wp-content/uploads/2023/03/12-Azure-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/12-Azure-150x150.png
+[74/332] OK https://ensitech.com/wp-content/uploads/2023/03/2-Close-skills-gap.png -> assets/ensitech.com/wp-content/uploads/2023/03/2-Close-skills-gap.png
+[75/332] OK https://ensitech.com/wp-content/uploads/2023/03/2-Evaluate-engineers.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/2-Evaluate-engineers.jpg
+[76/332] OK https://ensitech.com/wp-content/uploads/2023/03/3-Access-to-global-talent-pool_v2.png -> assets/ensitech.com/wp-content/uploads/2023/03/3-Access-to-global-talent-pool_v2.png
+[77/332] OK https://ensitech.com/wp-content/uploads/2023/03/3-Define-start-date.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/3-Define-start-date.jpg
+[78/332] OK https://ensitech.com/wp-content/uploads/2023/03/4-Make-the-most-with-your-budget.png -> assets/ensitech.com/wp-content/uploads/2023/03/4-Make-the-most-with-your-budget.png
+[79/332] OK https://ensitech.com/wp-content/uploads/2023/03/4-Measure-team-performance.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/4-Measure-team-performance.jpg
+[80/332] OK https://ensitech.com/wp-content/uploads/2023/03/5-Gain-flexibility-and-scalability.png -> assets/ensitech.com/wp-content/uploads/2023/03/5-Gain-flexibility-and-scalability.png
+[81/332] OK https://ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG-150x150.png
+[82/332] OK https://ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG-300x300.png -> assets/ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG-300x300.png
+[83/332] OK https://ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG-768x768.png -> assets/ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG-768x768.png
+[84/332] OK https://ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG.png -> assets/ensitech.com/wp-content/uploads/2023/03/BP2C26-Badge-ENG.png
+[85/332] OK https://ensitech.com/wp-content/uploads/2023/03/CLOUD-OP-300x251.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/CLOUD-OP-300x251.jpg
+[86/332] OK https://ensitech.com/wp-content/uploads/2023/03/CLOUD-OP-768x643.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/CLOUD-OP-768x643.jpg
+[87/332] OK https://ensitech.com/wp-content/uploads/2023/03/CLOUD-OP.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/CLOUD-OP.jpg
+[88/332] OK https://ensitech.com/wp-content/uploads/2023/03/ENSITECH-Software-Factory-CMMI-Development-V2.png -> assets/ensitech.com/wp-content/uploads/2023/03/ENSITECH-Software-Factory-CMMI-Development-V2.png
+[89/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1-1024x234.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1-1024x234.png
+[90/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1-300x69.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1-300x69.png
+[91/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1-768x176.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1-768x176.png
+[92/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1.png
+[93/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1024x234.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-1024x234.png
+[94/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-300x69.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-300x69.png
+[95/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-768x176.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE-768x176.png
+[96/332] OK https://ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE.png -> assets/ensitech.com/wp-content/uploads/2023/03/Ensitech-logo-COLOR-PNG-fondo-TRANSPARENTE.png
+[97/332] OK https://ensitech.com/wp-content/uploads/2023/03/SOFTWARE-DEVELOPMENT-300x251.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/SOFTWARE-DEVELOPMENT-300x251.jpg
+[98/332] OK https://ensitech.com/wp-content/uploads/2023/03/SOFTWARE-DEVELOPMENT-768x643.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/SOFTWARE-DEVELOPMENT-768x643.jpg
+[99/332] OK https://ensitech.com/wp-content/uploads/2023/03/SOFTWARE-DEVELOPMENT.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/SOFTWARE-DEVELOPMENT.jpg
+[100/332] OK https://ensitech.com/wp-content/uploads/2023/03/Slide04-Dark.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/Slide04-Dark.jpg
+[101/332] OK https://ensitech.com/wp-content/uploads/2023/03/slide01-darks.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/slide01-darks.jpg
+[102/332] OK https://ensitech.com/wp-content/uploads/2023/03/Slide03-Dark.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/Slide03-Dark.jpg
+[103/332] OK https://ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-1024x356.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-1024x356.jpg
+[104/332] OK https://ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-1536x533.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-1536x533.jpg
+[105/332] OK https://ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-300x104.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-300x104.jpg
+[106/332] OK https://ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-768x267.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min-768x267.jpg
+[107/332] OK https://ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/artificialIntelligence-min.jpg
+[108/332] OK https://ensitech.com/wp-content/uploads/2023/03/caso2.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/caso2.jpg
+[109/332] OK https://ensitech.com/wp-content/uploads/2023/03/creationCustom.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/creationCustom.jpg
+[110/332] OK https://ensitech.com/wp-content/uploads/2023/03/ensitech-software-factory-cmmi-5.png -> assets/ensitech.com/wp-content/uploads/2023/03/ensitech-software-factory-cmmi-5.png
+[111/332] OK https://ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-1024x678.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-1024x678.jpg
+[112/332] OK https://ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-1536x1018.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-1536x1018.jpg
+[113/332] OK https://ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-2048x1357.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-2048x1357.jpg
+[114/332] OK https://ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-300x199.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-300x199.jpg
+[115/332] OK https://ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-768x509.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1-768x509.jpg
+[116/332] OK https://ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/herramental-success-background_img-scaled-1.jpg
+[117/332] OK https://ensitech.com/wp-content/uploads/2023/03/industry-disruptor-background-scaled-1.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/industry-disruptor-background-scaled-1.jpg
+[118/332] OK https://ensitech.com/wp-content/uploads/2023/03/marvin-meyer-SYTO3xs06fU-unsplash-scaled.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/marvin-meyer-SYTO3xs06fU-unsplash-scaled.jpg
+[119/332] OK https://ensitech.com/wp-content/uploads/2023/03/Slide01-Dark.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/Slide01-Dark.jpg
+[120/332] OK https://ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you-1024x582.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you-1024x582.jpg
+[121/332] OK https://ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you-300x170.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you-300x170.jpg
+[122/332] OK https://ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you-768x436.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you-768x436.jpg
+[123/332] OK https://ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/small-We-make-it-easy-for-you.jpg
+[124/332] OK https://ensitech.com/wp-content/uploads/2023/03/toc.jpg -> assets/ensitech.com/wp-content/uploads/2023/03/toc.jpg
+[125/332] OK https://ensitech.com/wp-content/uploads/2023/03/w-somos-repse-1-300x164.png -> assets/ensitech.com/wp-content/uploads/2023/03/w-somos-repse-1-300x164.png
+[126/332] OK https://ensitech.com/wp-content/uploads/2023/03/w-somos-repse-1.png -> assets/ensitech.com/wp-content/uploads/2023/03/w-somos-repse-1.png
+[127/332] OK https://ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-1024x1024.png -> assets/ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-1024x1024.png
+[128/332] OK https://ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-150x150.png
+[129/332] OK https://ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-300x300.png -> assets/ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-300x300.png
+[130/332] OK https://ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-768x768.png -> assets/ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1-768x768.png
+[131/332] OK https://ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1.png -> assets/ensitech.com/wp-content/uploads/2023/04/average_review_rating_2021-1.png
+[132/332] OK https://ensitech.com/wp-content/uploads/2023/04/background-ensitech-appraisal-scaled-1.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/background-ensitech-appraisal-scaled-1.jpg
+[133/332] OK https://ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-1024x1024.png -> assets/ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-1024x1024.png
+[134/332] OK https://ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-150x150.png -> assets/ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-150x150.png
+[135/332] OK https://ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-300x300.png -> assets/ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-300x300.png
+[136/332] OK https://ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-768x768.png -> assets/ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1-768x768.png
+[137/332] OK https://ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1.png -> assets/ensitech.com/wp-content/uploads/2023/04/client_testimonial_2021-1.png
+[138/332] OK https://ensitech.com/wp-content/uploads/2023/04/enistech-cmmi-5-appraisal-2022_v3-300x138.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/enistech-cmmi-5-appraisal-2022_v3-300x138.jpg
+[139/332] OK https://ensitech.com/wp-content/uploads/2023/04/enistech-cmmi-5-appraisal-2022_v3-768x352.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/enistech-cmmi-5-appraisal-2022_v3-768x352.jpg
+[140/332] OK https://ensitech.com/wp-content/uploads/2023/04/enistech-cmmi-5-appraisal-2022_v3.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/enistech-cmmi-5-appraisal-2022_v3.jpg
+[141/332] OK https://ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-1421x1536.png -> assets/ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-1421x1536.png
+[142/332] OK https://ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-278x300.png -> assets/ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-278x300.png
+[143/332] OK https://ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-768x830.png -> assets/ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-768x830.png
+[144/332] OK https://ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-947x1024.png -> assets/ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1-947x1024.png
+[145/332] OK https://ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1.png -> assets/ensitech.com/wp-content/uploads/2023/04/ensitech-top-clutch-1.png
+[146/332] OK https://ensitech.com/wp-content/uploads/2023/04/favicon-1-1.png -> assets/ensitech.com/wp-content/uploads/2023/04/favicon-1-1.png
+[147/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1-1024x536.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1-1024x536.jpg
+[148/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1-300x157.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1-300x157.jpg
+[149/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1-768x402.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1-768x402.jpg
+[150/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-1.jpg
+[151/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-10-300x202.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-10-300x202.jpg
+[152/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-10.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-10.jpg
+[153/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-11-300x188.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-11-300x188.jpg
+[154/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-11-768x482.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-11-768x482.jpg
+[155/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-11.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-11.jpg
+[156/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-12-300x53.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-12-300x53.jpg
+[157/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-12-768x136.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-12-768x136.jpg
+[158/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-12.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-12.jpg
+[159/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13-1024x335.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13-1024x335.jpg
+[160/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13-300x98.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13-300x98.jpg
+[161/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13-768x251.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13-768x251.jpg
+[162/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-13.jpg
+[163/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14-1024x262.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14-1024x262.jpg
+[164/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14-300x77.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14-300x77.jpg
+[165/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14-768x196.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14-768x196.jpg
+[166/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-14.jpg
+[167/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-15-300x218.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-15-300x218.jpg
+[168/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-15-768x559.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-15-768x559.jpg
+[169/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-15.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-15.jpg
+[170/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-16-300x171.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-16-300x171.jpg
+[171/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-16-768x439.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-16-768x439.jpg
+[172/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-16.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-16.jpg
+[173/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-17-294x300.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-17-294x300.jpg
+[174/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-17.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-17.jpg
+[175/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18-1024x552.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18-1024x552.jpg
+[176/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18-300x162.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18-300x162.jpg
+[177/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18-768x414.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18-768x414.jpg
+[178/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-18.jpg
+[179/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2-1024x196.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2-1024x196.jpg
+[180/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2-300x58.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2-300x58.jpg
+[181/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2-768x147.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2-768x147.jpg
+[182/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-2.jpg
+[183/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-3-300x152.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-3-300x152.jpg
+[184/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-3-768x388.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-3-768x388.jpg
+[185/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-3.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-3.jpg
+[186/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-4-300x151.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-4-300x151.jpg
+[187/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-4-768x386.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-4-768x386.jpg
+[188/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-4.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-4.jpg
+[189/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5-1024x536.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5-1024x536.jpg
+[190/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5-300x157.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5-300x157.jpg
+[191/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5-768x402.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5-768x402.jpg
+[192/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-5.jpg
+[193/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2-1024x284.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2-1024x284.jpg
+[194/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2-300x83.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2-300x83.jpg
+[195/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2-768x213.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2-768x213.jpg
+[196/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-6v2.jpg
+[197/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-7-300x142.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-7-300x142.jpg
+[198/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-7-768x362.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-7-768x362.jpg
+[199/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-7.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-7.jpg
+[200/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-8-300x229.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-8-300x229.jpg
+[201/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-8-768x585.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-8-768x585.jpg
+[202/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-8.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-8.jpg
+[203/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-9v3-290x300.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-9v3-290x300.jpg
+[204/332] OK https://ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-9v3.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/monolith-vs-microservices-9v3.jpg
+[205/332] OK https://ensitech.com/wp-content/uploads/2023/04/pexels-pixabayv2.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/pexels-pixabayv2.jpg
+[206/332] OK https://ensitech.com/wp-content/uploads/2023/04/reviews.png -> assets/ensitech.com/wp-content/uploads/2023/04/reviews.png
+[207/332] OK https://ensitech.com/wp-content/uploads/2023/04/web-featured-img-clutch-scaled-1.jpg -> assets/ensitech.com/wp-content/uploads/2023/04/web-featured-img-clutch-scaled-1.jpg
+[208/332] OK https://ensitech.com/wp-content/uploads/2024/07/01-comprehensive-ai-services.png -> assets/ensitech.com/wp-content/uploads/2024/07/01-comprehensive-ai-services.png
+[209/332] OK https://ensitech.com/wp-content/uploads/2024/07/02-integrate-ai-solutions.png -> assets/ensitech.com/wp-content/uploads/2024/07/02-integrate-ai-solutions.png
+[210/332] OK https://ensitech.com/wp-content/uploads/2024/07/03-diverse-ai-applications.png -> assets/ensitech.com/wp-content/uploads/2024/07/03-diverse-ai-applications.png
+[211/332] OK https://ensitech.com/wp-content/uploads/2024/07/04-leading-ai-frameworks.png -> assets/ensitech.com/wp-content/uploads/2024/07/04-leading-ai-frameworks.png
+[212/332] OK https://ensitech.com/wp-content/uploads/2024/07/05-embedding-ai-capabilities.png -> assets/ensitech.com/wp-content/uploads/2024/07/05-embedding-ai-capabilities.png
+[213/332] OK https://ensitech.com/wp-content/uploads/2024/07/ai-image-01-246x300.jpg -> assets/ensitech.com/wp-content/uploads/2024/07/ai-image-01-246x300.jpg
+[214/332] OK https://ensitech.com/wp-content/uploads/2024/07/ai-image-01.jpg -> assets/ensitech.com/wp-content/uploads/2024/07/ai-image-01.jpg
+[215/332] OK https://ensitech.com/wp-content/uploads/2024/07/chat-icon-contact.png -> assets/ensitech.com/wp-content/uploads/2024/07/chat-icon-contact.png
+[216/332] OK https://ensitech.com/wp-content/uploads/2024/07/ensitech-gradient-background.jpg -> assets/ensitech.com/wp-content/uploads/2024/07/ensitech-gradient-background.jpg
+[217/332] OK https://ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671-1024x548.png -> assets/ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671-1024x548.png
+[218/332] OK https://ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671-300x160.png -> assets/ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671-300x160.png
+[219/332] OK https://ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671-768x411.png -> assets/ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671-768x411.png
+[220/332] OK https://ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671.png -> assets/ensitech.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-02T105606.671.png
+[221/332] OK https://ensitech.com/wp-content/uploads/2024/08/collage-20-ensitech.png -> assets/ensitech.com/wp-content/uploads/2024/08/collage-20-ensitech.png
+[222/332] OK https://ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada-1024x536.jpg -> assets/ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada-1024x536.jpg
+[223/332] OK https://ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada-300x157.jpg -> assets/ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada-300x157.jpg
+[224/332] OK https://ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada-768x402.jpg -> assets/ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada-768x402.jpg
+[225/332] OK https://ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada.jpg -> assets/ensitech.com/wp-content/uploads/2024/08/techreviewer-img-destacada.jpg
+[226/332] OK https://ensitech.com/wp-content/uploads/2024/08/top-devs-header.jpg -> assets/ensitech.com/wp-content/uploads/2024/08/top-devs-header.jpg
+[227/332] OK https://ensitech.com/wp-content/uploads/2024/09/w-somos-repse-1-300x164.png -> assets/ensitech.com/wp-content/uploads/2024/09/w-somos-repse-1-300x164.png
+[228/332] OK https://ensitech.com/wp-content/uploads/2024/09/w-somos-repse-1.png -> assets/ensitech.com/wp-content/uploads/2024/09/w-somos-repse-1.png
+[229/332] OK https://ensitech.com/wp-content/uploads/2025/05/case-study-ad-2025-header-img-300x200.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/case-study-ad-2025-header-img-300x200.jpg
+[230/332] OK https://ensitech.com/wp-content/uploads/2025/05/case-study-ad-2025-header-img-768x512.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/case-study-ad-2025-header-img-768x512.jpg
+[231/332] OK https://ensitech.com/wp-content/uploads/2025/05/case-study-ad-2025-header-img.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/case-study-ad-2025-header-img.jpg
+[232/332] OK https://ensitech.com/wp-content/uploads/2025/05/feaured-image-casestudy-2025.png -> assets/ensitech.com/wp-content/uploads/2025/05/feaured-image-casestudy-2025.png
+[233/332] OK https://ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-1024x683.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-1024x683.jpg
+[234/332] OK https://ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-1536x1024.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-1536x1024.jpg
+[235/332] OK https://ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-2048x1365.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-2048x1365.jpg
+[236/332] OK https://ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-300x200.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-300x200.jpg
+[237/332] OK https://ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-768x512.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-768x512.jpg
+[238/332] OK https://ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-scaled.jpg -> assets/ensitech.com/wp-content/uploads/2025/05/header_img-rc-2025-case-study2-scaled.jpg
+[239/332] OK https://ensitech.com/wp-content/uploads/2025/07/feat_img-rc-2025-case-study.jpg -> assets/ensitech.com/wp-content/uploads/2025/07/feat_img-rc-2025-case-study.jpg
+[240/332] OK https://ensitech.com/wp-content/uploads/2025/08/EduardoR-img-founders-150x150.png -> assets/ensitech.com/wp-content/uploads/2025/08/EduardoR-img-founders-150x150.png
+[241/332] OK https://ensitech.com/wp-content/uploads/2025/08/EduardoR-img-founders-300x300.png -> assets/ensitech.com/wp-content/uploads/2025/08/EduardoR-img-founders-300x300.png
+[242/332] OK https://ensitech.com/wp-content/uploads/2025/08/EduardoR-img-founders.png -> assets/ensitech.com/wp-content/uploads/2025/08/EduardoR-img-founders.png
+[243/332] OK https://ensitech.com/wp-content/uploads/2025/08/JorgeA-img-founders-150x150.png -> assets/ensitech.com/wp-content/uploads/2025/08/JorgeA-img-founders-150x150.png
+[244/332] OK https://ensitech.com/wp-content/uploads/2025/08/JorgeA-img-founders-300x300.png -> assets/ensitech.com/wp-content/uploads/2025/08/JorgeA-img-founders-300x300.png
+[245/332] OK https://ensitech.com/wp-content/uploads/2025/08/JorgeA-img-founders.png -> assets/ensitech.com/wp-content/uploads/2025/08/JorgeA-img-founders.png
+[246/332] OK https://ensitech.com/wp-content/uploads/2025/08/LuisC-img-founders-150x150.png -> assets/ensitech.com/wp-content/uploads/2025/08/LuisC-img-founders-150x150.png
+[247/332] OK https://ensitech.com/wp-content/uploads/2025/08/LuisC-img-founders-300x300.png -> assets/ensitech.com/wp-content/uploads/2025/08/LuisC-img-founders-300x300.png
+[248/332] OK https://ensitech.com/wp-content/uploads/2025/08/LuisC-img-founders.png -> assets/ensitech.com/wp-content/uploads/2025/08/LuisC-img-founders.png
+[249/332] OK https://ensitech.com/wp-content/uploads/2025/08/Our_story-227x300.png -> assets/ensitech.com/wp-content/uploads/2025/08/Our_story-227x300.png
+[250/332] OK https://ensitech.com/wp-content/uploads/2025/08/Our_story-768x1016.png -> assets/ensitech.com/wp-content/uploads/2025/08/Our_story-768x1016.png
+[251/332] OK https://ensitech.com/wp-content/uploads/2025/08/Our_story-774x1024.png -> assets/ensitech.com/wp-content/uploads/2025/08/Our_story-774x1024.png
+[252/332] OK https://ensitech.com/wp-content/uploads/2025/08/Our_story.png -> assets/ensitech.com/wp-content/uploads/2025/08/Our_story.png
+[253/332] OK https://ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam-1024x684.png -> assets/ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam-1024x684.png
+[254/332] OK https://ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam-300x200.png -> assets/ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam-300x200.png
+[255/332] OK https://ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam-768x513.png -> assets/ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam-768x513.png
+[256/332] OK https://ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam.png -> assets/ensitech.com/wp-content/uploads/2025/08/header-img-ensiteam.png
+[257/332] OK https://ensitech.com/wp-content/uploads/2026/02/Techreviewer2026-1024x536.png -> assets/ensitech.com/wp-content/uploads/2026/02/Techreviewer2026-1024x536.png
+[258/332] OK https://ensitech.com/wp-content/uploads/2026/02/Techreviewer2026-300x157.png -> assets/ensitech.com/wp-content/uploads/2026/02/Techreviewer2026-300x157.png
+[259/332] OK https://ensitech.com/wp-content/uploads/2026/02/Techreviewer2026-768x402.png -> assets/ensitech.com/wp-content/uploads/2026/02/Techreviewer2026-768x402.png
+[260/332] OK https://ensitech.com/wp-content/uploads/2026/02/Techreviewer2026.png -> assets/ensitech.com/wp-content/uploads/2026/02/Techreviewer2026.png
+[261/332] OK https://ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized-1024x536.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized-1024x536.jpg
+[262/332] OK https://ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized-300x157.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized-300x157.jpg
+[263/332] OK https://ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized-768x402.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized-768x402.jpg
+[264/332] OK https://ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/bp2c2026-ensitech-recognized.jpg
+[265/332] OK https://ensitech.com/wp-content/uploads/2026/02/header-img-techreviewer-2026-scaled.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/header-img-techreviewer-2026-scaled.jpg
+[266/332] OK https://ensitech.com/wp-content/uploads/2026/02/img-header-ensiteam-01-1024x540.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/img-header-ensiteam-01-1024x540.jpg
+[267/332] OK https://ensitech.com/wp-content/uploads/2026/02/img-header-ensiteam-01-2048x1079.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/img-header-ensiteam-01-2048x1079.jpg
+[268/332] OK https://ensitech.com/wp-content/uploads/2026/02/img-header-ensiteam-01-scaled.jpg -> assets/ensitech.com/wp-content/uploads/2026/02/img-header-ensiteam-01-scaled.jpg
+[269/332] OK https://ensitech.com/wp-content/uploads/2026/03/10_Top-Clutch-Software-Developers-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/10_Top-Clutch-Software-Developers-Mexico-2026.png
+[270/332] OK https://ensitech.com/wp-content/uploads/2026/03/11_Top-Clutch-Staff-Augmentation-Company-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/11_Top-Clutch-Staff-Augmentation-Company-Mexico-2026.png
+[271/332] OK https://ensitech.com/wp-content/uploads/2026/03/1_Top-Clutch-.net-Developers-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/1_Top-Clutch-.net-Developers-Mexico-2026.png
+[272/332] OK https://ensitech.com/wp-content/uploads/2026/03/2_Top-Clutch-Angular-Developers-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/2_Top-Clutch-Angular-Developers-Mexico-2026.png
+[273/332] OK https://ensitech.com/wp-content/uploads/2026/03/3_Top-Clutch-Artificial-Intelligence-Company-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/3_Top-Clutch-Artificial-Intelligence-Company-Mexico-2026.png
+[274/332] OK https://ensitech.com/wp-content/uploads/2026/03/4_Top-Clutch-Asp.net-Developers-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/4_Top-Clutch-Asp.net-Developers-Mexico-2026.png
+[275/332] OK https://ensitech.com/wp-content/uploads/2026/03/5_Top-Clutch-Bi-Big-Data-Company-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/5_Top-Clutch-Bi-Big-Data-Company-Mexico-2026.png
+[276/332] OK https://ensitech.com/wp-content/uploads/2026/03/6_Top-Clutch-It-Services-Company-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/6_Top-Clutch-It-Services-Company-Mexico-2026.png
+[277/332] OK https://ensitech.com/wp-content/uploads/2026/03/7_Top-Clutch-Java-Developers-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/7_Top-Clutch-Java-Developers-Mexico-2026.png
+[278/332] OK https://ensitech.com/wp-content/uploads/2026/03/8_Top-Clutch-Machine-Learning-Company-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/8_Top-Clutch-Machine-Learning-Company-Mexico-2026.png
+[279/332] OK https://ensitech.com/wp-content/uploads/2026/03/9_Top-Clutch-Nodejs-Developers-Mexico-2026.png -> assets/ensitech.com/wp-content/uploads/2026/03/9_Top-Clutch-Nodejs-Developers-Mexico-2026.png
+[280/332] OK https://ensitech.com/wp-content/uploads/2026/06/10oxxo.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/10oxxo.jpg
+[281/332] OK https://ensitech.com/wp-content/uploads/2026/06/11seguros-el-potosi.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/11seguros-el-potosi.jpg
+[282/332] OK https://ensitech.com/wp-content/uploads/2026/06/12sorteos-tec.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/12sorteos-tec.jpg
+[283/332] OK https://ensitech.com/wp-content/uploads/2026/06/13sundt.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/13sundt.jpg
+[284/332] OK https://ensitech.com/wp-content/uploads/2026/06/14tec-de-mty.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/14tec-de-mty.jpg
+[285/332] OK https://ensitech.com/wp-content/uploads/2026/06/15televisa.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/15televisa.jpg
+[286/332] OK https://ensitech.com/wp-content/uploads/2026/06/16xignux.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/16xignux.jpg
+[287/332] OK https://ensitech.com/wp-content/uploads/2026/06/1banregio.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/1banregio.jpg
+[288/332] OK https://ensitech.com/wp-content/uploads/2026/06/2bepensa.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/2bepensa.jpg
+[289/332] OK https://ensitech.com/wp-content/uploads/2026/06/3berkshire-hathaway.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/3berkshire-hathaway.jpg
+[290/332] OK https://ensitech.com/wp-content/uploads/2026/06/4cemex.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/4cemex.jpg
+[291/332] OK https://ensitech.com/wp-content/uploads/2026/06/5empact-it.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/5empact-it.jpg
+[292/332] OK https://ensitech.com/wp-content/uploads/2026/06/6formel-d.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/6formel-d.jpg
+[293/332] OK https://ensitech.com/wp-content/uploads/2026/06/7microsoft.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/7microsoft.jpg
+[294/332] OK https://ensitech.com/wp-content/uploads/2026/06/8oma.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/8oma.jpg
+[295/332] OK https://ensitech.com/wp-content/uploads/2026/06/9openpay.jpg -> assets/ensitech.com/wp-content/uploads/2026/06/9openpay.jpg
+[296/332] OK https://ensitech.com/wp-content/uploads/premium-addons-elementor/pa-frontend-b26eda50a.min.js?ver=1780684055 -> assets/ensitech.com/wp-content/uploads/premium-addons-elementor/pa-frontend-b26eda50a.min.js
+[297/332] OK https://ensitech.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d -> assets/ensitech.com/wp-includes/js/dist/hooks.min.js
+[298/332] OK https://ensitech.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec -> assets/ensitech.com/wp-includes/js/dist/i18n.min.js
+[299/332] OK https://ensitech.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0 -> assets/ensitech.com/wp-includes/js/dist/vendor/wp-polyfill.min.js
+[300/332] OK https://ensitech.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0 -> assets/ensitech.com/wp-includes/js/imagesloaded.min.js
+[301/332] OK https://ensitech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 -> assets/ensitech.com/wp-includes/js/jquery/jquery-migrate.min.js
+[302/332] OK https://ensitech.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1 -> assets/ensitech.com/wp-includes/js/jquery/jquery.min.js
+[303/332] OK https://ensitech.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3 -> assets/ensitech.com/wp-includes/js/jquery/ui/core.min.js
+[304/332] OK https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen%20Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic& -> assets/fonts.googleapis.com/_cssfamily_Roboto_3A100_2C100italic_2C200_2C200italic_2C300_2C300italic_2C400_2C400italic_2C500_2C500italic_2C600_2C600i.css
+[314/332] OK https://fonts.gstatic.com/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2 -> assets/fonts.gstatic.com/s/opensans/v43/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2
+[315/332] OK https://fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2 -> assets/fonts.gstatic.com/s/opensans/v43/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+[316/332] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2
+[317/332] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+[318/332] OK https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2 -> assets/fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+[319/332] OK https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2 -> assets/fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+[320/332] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+[321/332] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+[322/332] OK https://fonts.gstatic.com/s/raleway/v36/1Ptug8zYS_SKggPNyC0ITw.woff2 -> assets/fonts.gstatic.com/s/raleway/v36/1Ptug8zYS_SKggPNyC0ITw.woff2
+[323/332] OK https://fonts.gstatic.com/s/raleway/v37/1Ptsg8zYS_SKggPNyCg4TYFq.woff2 -> assets/fonts.gstatic.com/s/raleway/v37/1Ptsg8zYS_SKggPNyCg4TYFq.woff2
+[324/332] OK https://fonts.gstatic.com/s/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2 -> assets/fonts.gstatic.com/s/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2
+[325/332] OK https://fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 -> assets/fonts.gstatic.com/s/roboto/v47/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+[326/332] OK https://fonts.gstatic.com/s/roboto/v48/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2 -> assets/fonts.gstatic.com/s/roboto/v48/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2
+[327/332] OK https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 -> assets/fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+[328/332] OK https://fonts.gstatic.com/s/roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 -> assets/fonts.gstatic.com/s/roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+[329/332] OK https://fonts.gstatic.com/s/roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2 -> assets/fonts.gstatic.com/s/roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2
+[330/332] OK https://fonts.gstatic.com/s/roboto/v50/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2 -> assets/fonts.gstatic.com/s/roboto/v50/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2
+[331/332] OK https://fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 -> assets/fonts.gstatic.com/s/roboto/v50/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+[332/332] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+
+Downloaded: 332
+Failed: 0
+
+Rewriting HTML files to use local assets...
+Rewrote: index.html
+Rewrote: blogs/index.html
+Rewrote: aviso-de-privacidad/index.html
+Rewrote: about-covid-19/index.html
+Rewrote: from-monolithic-architecture-to-microservices-part3/index.html
+Rewrote: about-us/index.html
+Rewrote: from-monolithic-architecture-to-microservices-part2/index.html
+Rewrote: cookie-policy/index.html
+Rewrote: ensitech-achieves-cmmi-level-5-appraisal/index.html
+Rewrote: privacy-policy/index.html
+Rewrote: software-development/index.html
+Rewrote: ensitech-wins-clutch-2021-leader-awards-as-a-top-b2b-company-in-mexico/index.html
+Rewrote: staff-augmentation/index.html
+Rewrote: politica-del-sistema-de-gestion-de-la-seguridad-de-la-informacion-sgsi/index.html
+Rewrote: ensitech-named-one-of-the-top-custom-software-development-companies-in-2026-by-techreviewer-co/index.html
+Rewrote: ensitech-named-a-top-software-development-company-of-2025-by-techreviewer/index.html
+Rewrote: ensitech-celebrates-20-years-of-innovation-and-excellence-a-message-to-our-valued-partners-and-clients/index.html
+Rewrote: from-monolithic-architecture-to-microservices-part1/index.html
+Rewrote: contact-us/index.html
+Rewrote: artificial-intelligence/index.html
+Rewrote: contrato-de-prestacion-de-servicios/index.html
+Rewrote: big-data-analytics/index.html
+Rewrote: information-security-management-system-policy-sgsi/index.html
+Rewrote: cloud-operations/index.html
+Rewrote: ensitech-year-in-rewiew-on-clutch/index.html
+Rewrote: case-study/index.html
+Rewrote: case-study/closing-skills-gap-for-an-ecommerce-project/index.html
+Rewrote: case-study/creation-of-a-custom-made-system-for-unit-management-and-quality-control-in-the-automotive-industry/index.html
+Rewrote: case-study/how-a-technology-company-managed-to-search-for-candidates-in-times-of-change/index.html
+Rewrote: case-study/custom-tech-talent-for-better-response-times-and-dev-quality/index.html
+Rewrote: case-study/generating-a-sales-forecast-updated-in-real-time-through-information-integrated-into-hubspot-2/index.html
+Rewrote: case-study/how-to-automate-expensive-labour-intensive-time-consuming-industrial-quality-control-processes-with-artificial-intelligence/index.html
+Rewrote: case-study/transforming-financial-management-through-custom-technology-solutions/index.html
+Rewrote: ensitech-certified-as-best-place-to-code-2026/index.html
+Rewrote: terms-of-services/index.html
+Updated 35 HTML files
+
+Checking CSS files for nested assets...
+Found 99 additional assets in CSS, downloading...
+[1/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106FxZCJgvAQ.woff2
+[2/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06FxZCJgvAQ.woff2
+[3/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6FxZCJgvAQ.woff2
+[4/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6FxZCJgvAQ.woff2
+[5/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6FxZCJgvAQ.woff2
+[6/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06FxZCJgvAQ.woff2
+[7/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2
+[8/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6FxZCJgvAQ.woff2
+[9/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6FxZCJgvAQ.woff2
+[10/99] OK https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6FxZCJgvAQ.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6FxZCJgvAQ.woff2
+[11/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2
+[12/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu0SC55K5gw.woff2
+[13/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu0SC55K5gw.woff2
+[14/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu0SC55K5gw.woff2
+[15/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2
+[16/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu0SC55K5gw.woff2
+[17/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu0SC55K5gw.woff2
+[18/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu0SC55K5gw.woff2
+[19/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu0SC55K5gw.woff2
+[20/99] OK https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2 -> assets/fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu0SC55K5gw.woff2
+[21/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2
+[22/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8.woff2
+[23/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8.woff2
+[24/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z11lFd2JQEl8qw.woff2
+[25/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw.woff2
+[26/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2
+[27/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+[28/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+[29/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+[30/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+[31/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+[32/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+[33/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2
+[34/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2
+[35/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2
+[36/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+[37/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+[38/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+[39/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z11lFd2JQEl8qw.woff2
+[40/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw.woff2
+[41/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2
+[42/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+[43/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+[44/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+[45/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2
+[46/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap.woff2
+[47/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap.woff2
+[48/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2
+[49/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap.woff2
+[50/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap.woff2
+[51/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2
+[52/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap.woff2
+[53/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap.woff2
+[54/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2
+[55/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap.woff2
+[56/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap.woff2
+[57/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2
+[58/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap.woff2
+[59/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap.woff2
+[60/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2
+[61/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap.woff2
+[62/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap.woff2
+[63/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+[64/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+[65/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+[66/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+[67/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+[68/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+[69/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+[70/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+[71/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+[72/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2
+[73/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucXtAOvWDSHFF.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucXtAOvWDSHFF.woff2
+[74/99] OK https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF.woff2 -> assets/fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF.woff2
+[75/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaSTbQWt4N.woff2
+[76/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaSTbQWt4N.woff2
+[77/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnkaSTbQWg.woff2
+[78/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaSTbQWt4N.woff2
+[79/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaSTbQWt4N.woff2
+[80/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaSTbQWt4N.woff2
+[81/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaSTbQWt4N.woff2
+[82/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaSTbQWt4N.woff2
+[83/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaSTbQWt4N.woff2
+[84/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2
+[85/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2
+[86/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2
+[87/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2
+[88/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2
+[89/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2
+[90/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2
+[91/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2
+[92/99] OK https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2 -> assets/fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2
+[93/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qWr4xCCQ_k.woff2
+[94/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qWr4xCCQ_k.woff2
+[95/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qWr4xCCQ_k.woff2
+[96/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qWr4xCCQ_k.woff2
+[97/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qWr4xCCQ_k.woff2
+[98/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2
+[99/99] OK https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2 -> assets/fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qWr4xCCQ_k.woff2
+
+Done!

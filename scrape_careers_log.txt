@@ -1,0 +1,39 @@
+Fetching careers listing...
+Found 17 jobs
+Saved careers/index.html (96517 bytes)
+[1/17] Scraping: Senior Fullstack Developer (Legacy Modernization)
+  Saved jobs/senior-fullstack-developer-legacy-modernization-65075zeN/index.html
+[2/17] Scraping: Senior Data Engineer
+  Saved jobs/senior-data-engineer-64296OJC/index.html
+[3/17] Scraping: Principal Software Engineer
+  Saved jobs/principal-software-engineer-64296kWY/index.html
+[4/17] Scraping: Senior Progress OpenEdge Developer (ABL / 4GL)
+  Saved jobs/senior-progress-openedge-developer-abl-4gl-64296kDl/index.html
+[5/17] Scraping: Sr Software Engineer (Elixir, Ruby, React)
+  Saved jobs/sr-software-engineer-elixir-ruby-react-64296HrG/index.html
+[6/17] Scraping: PMO Coordinator
+  Saved jobs/pmo-coordinator-65075aMV/index.html
+[7/17] Scraping: Job de prueba - Caro
+  Saved jobs/job-de-prueba---caro-67743aMF/index.html
+[8/17] Scraping: Founding Solutions Engineer / Presales Engineer
+  Saved jobs/founding-solutions-engineer-presales-engineer-64296fQF/index.html
+[9/17] Scraping: Sr Python Backend Engineer (SaaS)
+  Saved jobs/sr-python-backend-engineer-saas-64296WOT/index.html
+[10/17] Scraping: Software Engineer – Azure Databricks & Agentic AI
+  Saved jobs/software-engineer-azure-databricks-agentic-ai-64296OfJ/index.html
+[11/17] Scraping: Ensitech JobsCareers
+  Saved jobs/ensitech-jobscareers-64296HFd/index.html
+[12/17] Scraping: Sr Software Engineer
+  Saved jobs/sr-software-engineer-64296Bes/index.html
+[13/17] Scraping: Google Cloud Consultant
+  Saved jobs/google-cloud-consultant-69865CoQ/index.html
+[14/17] Scraping: Power BI Developer Mid-Level
+  Saved jobs/power-bi-developer-mid-level-65075IUA/index.html
+[15/17] Scraping: Arquitecto de Diagnóstico Técnico
+  Saved jobs/arquitecto-de-diagnóstico-técnico-65205tHa/index.html
+[16/17] Scraping: Sr React Engineer
+  Saved jobs/sr-react-engineer-64296BlO/index.html
+[17/17] Scraping: Technical Business Analyst
+  Saved jobs/technical-business-analyst-64296sbk/index.html
+
+Done! 17 job pages saved.

@@ -1,0 +1,108 @@
+/* Shared job description typography for all career job pages */
+.job-description {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333333;
+  word-wrap: break-word;
+}
+
+.job-description * {
+  font-family: inherit !important;
+}
+
+.job-description p,
+.job-description li,
+.job-description div,
+.job-description span {
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+}
+
+.job-description p {
+  margin: 0 0 1em;
+}
+
+.job-description h1 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1c252f;
+  margin: 1.5em 0 0.75em;
+  line-height: 1.3;
+}
+
+.job-description h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1c252f;
+  margin: 1.5em 0 0.75em;
+  line-height: 1.35;
+}
+
+.job-description h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1c252f;
+  margin: 1.25em 0 0.5em;
+  line-height: 1.4;
+}
+
+.job-description h1:first-child,
+.job-description h2:first-child,
+.job-description h3:first-child,
+.job-description > strong:first-child,
+.job-description > b:first-child {
+  margin-top: 0;
+}
+
+.job-description strong,
+.job-description b {
+  font-weight: 700;
+  color: #1c252f;
+}
+
+.job-description em,
+.job-description i {
+  font-style: italic;
+}
+
+.job-description ul,
+.job-description ol {
+  margin: 0 0 1em;
+  padding-left: 1.5em;
+}
+
+.job-description ul {
+  list-style-type: disc;
+}
+
+.job-description ol {
+  list-style-type: decimal;
+}
+
+.job-description li {
+  margin-bottom: 0.35em;
+}
+
+.job-description li > ul,
+.job-description li > ol {
+  margin-top: 0.35em;
+  margin-bottom: 0.35em;
+}
+
+.job-description hr {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 1.5em 0;
+}
+
+.job-description a {
+  color: #3273dc;
+  text-decoration: underline;
+}
+
+.job-description br + br {
+  display: block;
+  content: "";
+  margin-top: 0.5em;
+}

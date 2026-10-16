@@ -1,0 +1,31 @@
+/* Blog and case study card image zoom on hover */
+.elementor-posts .ecs-post-loop .elementor-element-6cac15c,
+.elementor-posts .ecs-post-loop .elementor-element-ab0fe82 {
+  overflow: hidden;
+}
+
+.elementor-posts .ecs-post-loop .elementor-element-6cac15c:not(.elementor-motion-effects-element-type-background),
+.elementor-posts .ecs-post-loop .elementor-element-ab0fe82:not(.elementor-motion-effects-element-type-background) {
+  transition: transform 0.8s ease;
+  transform: scale(1);
+  transform-origin: center center;
+}
+
+.elementor-posts .ecs-post-loop:hover .elementor-element-6cac15c:not(.elementor-motion-effects-element-type-background),
+.elementor-posts .ecs-post-loop:hover .elementor-element-ab0fe82:not(.elementor-motion-effects-element-type-background) {
+  transform: scale(1.1);
+}
+
+.elementor-posts .ecs-post-loop .elementor-element-6cac15c .elementor-container,
+.elementor-posts .ecs-post-loop .elementor-element-ab0fe82 .elementor-container {
+  transition: transform 0.8s ease;
+  transform: scale(1);
+  transform-origin: center center;
+  position: relative;
+  z-index: 1;
+}
+
+.elementor-posts .ecs-post-loop:hover .elementor-element-6cac15c .elementor-container,
+.elementor-posts .ecs-post-loop:hover .elementor-element-ab0fe82 .elementor-container {
+  transform: scale(0.909091);
+}
